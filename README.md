@@ -76,25 +76,13 @@ Here are a couple of projects I'm proud of:
 * **[Coin/us-astro-chat](https://github.com/lungilemooketsi/Coin/us-astro-chat)**
     * **What it is:** A real-time crypto sentiment analysis pipeline.
     * This application aggregates data from multiple sources, performs sentiment analysis (NLP) to gauge market feeling, and generates actionable trading signals.
-    * *Technologies: TypeScript
+    * Technologies: TypeScript
 
 * **[drawnix](https://github.com/lungilemooketsi/drawnix)**
     * **What it is:** An all-in-one open-source whiteboard tool.
-    * *Technologies: TypeScript
+    * Technologies: TypeScript
 
 ---
-
-### 📊 My GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lungilemooketsi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Lungile's GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lungilemooketsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="httpsOPEN_YOUR_GITHUB_PROFILE_IN_A_BROWSER_AND_COPY_THE_IMAGE_URL_FOR_YOUR_CONTRIBUTION_GRAPH.png" alt="My Contribution Graph" />
-  </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lungilemooketsi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
