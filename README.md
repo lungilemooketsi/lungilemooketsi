@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lungilemooketsi">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=4000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Lungile+Mooketsi;Data+Science+Student;Lover+of+Data;Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=4000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Lungile+Mooketsi;Data+Science+Student;Lover+of+Data" alt="Typing SVG" />
   </a>
 </p>
 
