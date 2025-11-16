@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lungilemooketsi">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=4000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Lungile+Mooketsi;Curious+Data+Scientist;Future+Data+Engineer;Data-Driven+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=4000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Lungile+Mooketsi;Data+Science+Student;Lover+of+Data;Innovator" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,17 +21,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a Data Science Student at **Eduvos** (Johannesburg, South Africa 🇿🇦), driven by a passion for extracting meaning from complex datasets. My focus is on the complete data lifecycle—from building robust ETL pipelines and data warehouses to implementing machine learning models for tasks like sentiment analysis and prediction.
+I'm a Data Science Student at **Eduvos** in Johannesburg, South Africa 🇿🇦, driven by a passion for extracting meaning from complex datasets.
 
 * 🌱 I’m currently diving deep into **scalable data architectures** and **MLOps**.
-* 💡 I'm passionate about building a future as a **data-driven innovator**.
-* 💼 I am **actively open to work** and seeking **Data Engineer** or **Data Scientist** opportunities.
+* 💡 I'm passionate about building a future as a **Data/AI engineer**.
 
 ---
 
 ### 🎯 Core Competencies
-
-This is a scannable list for recruiters.
 
 * **Data Engineering:** Designing, building, and maintaining robust and scalable data pipelines (ETL/ELT).
 * **Machine Learning:** Implementing and evaluating models for classification, regression, and NLP (sentiment analysis).
