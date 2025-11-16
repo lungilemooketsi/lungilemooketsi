@@ -39,8 +39,6 @@ I'm a Data Science Student at **Eduvos** in Johannesburg, South Africa 🇿🇦,
 
 ### 🛠️ My Data Science Toolkit
 
-My skills organized by the data workflow.
-
 **Data Engineering & Pipelines**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
