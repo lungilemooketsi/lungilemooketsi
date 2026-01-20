@@ -24,18 +24,7 @@
 I'm a Data Science Student at **Eduvos** in Johannesburg, South Africa 🇿🇦, driven by a passion for extracting meaning from complex datasets.
 
 * 🌱 I’m currently diving deep into **scalable data architectures** and **MLOps**.
-* 💡 I'm passionate about building a future as a **Data/AI engineer**.
-
----
-
-### 🎯 Core Competencies
-
-* **Data Engineering:** Designing, building, and maintaining robust and scalable data pipelines (ETL/ELT).
-* **Machine Learning:** Implementing and evaluating models for classification, regression, and NLP (sentiment analysis).
-* **Data Analysis & Viz:** Using Pandas, NumPy, and visualization tools to clean, explore, and communicate insights.
-* **Full-Stack Acumen:** Understanding web technologies (TypeScript/JavaScript) allows me to bridge the gap between data products and end-users.
-
----
+* 💡 I'm passionate about building a future as a **Machine Learning Engineer**.
 
 ### 🛠️ My Data Science Toolkit
 
