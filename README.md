@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Data Science Student at **Eduvos** in Johannesburg, South Africa 🇿🇦, driven by a passion for extracting meaning from complex datasets.
+I'm a Data Science Student at **Eduvos** in Johannesburg, South Africa, driven by a passion for extracting meaning from complex datasets.
 
 * 🌱 I’m currently diving deep into **scalable data architectures** and **MLOps**.
 * 💡 I'm passionate about building a future as a **Machine Learning Engineer**.
