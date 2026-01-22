@@ -8,8 +8,8 @@
   <a href="https://linkedin.com/in/lungilemooketsi" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lungilemooketsi-blue?style=for-the-badge&logo=linkedin">
   </a>&nbsp;
-  <a href="https://kynostech.co.za" target="_blank">
-    <img alt="Personal Website" src="https://img.shields.io/badge/Website-kynostech.co.za-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <a href="https://lungilemooketsi.engineer" target="_blank">
+    <img alt="Personal Website" src="https://img.shields.io/badge/Website-Portfolio-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>&nbsp;
   <a href="https://twitter.com/lungilemooketsi" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@lungilemooketsi-blue?style=for-the-badge&logo=twitter">
