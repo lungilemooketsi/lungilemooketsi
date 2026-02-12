@@ -21,7 +21,7 @@
 
 ### ✨ About Me
 
-Iam a second-year Bachelor of Science student in Information Technology at Eduvos, specializing in Data Science. My academic journey is driven by a fascination with how algorithms can uncover hidden patterns in chaotic data.
+I am a second-year Bachelor of Science student in Information Technology at Eduvos, specializing in Data Science. My academic journey is driven by a fascination with how algorithms can uncover hidden patterns in chaotic data.
 
 My goal is to transition into Machine Learning Engineering, building robust models that solve real-world problems. I combine rigorous statistical analysis with modern software engineering practices to create scalable, efficient AI solutions.
 
