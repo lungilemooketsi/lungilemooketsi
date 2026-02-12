@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/lungilemooketsi" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lungilemooketsi-blue?style=for-the-badge&logo=linkedin">
   </a>&nbsp;
-  <a href="https://lungilemooketsi.comr" target="_blank">
+  <a href="https://lungile.me" target="_blank">
     <img alt="Personal Website" src="https://img.shields.io/badge/Portfolio--brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>&nbsp;
   <a href="https://twitter.com/lungilemooketsi" target="_blank">
@@ -50,23 +50,6 @@ I'm a Data Science Student at **Eduvos** in Johannesburg, South Africa, driven b
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
-
----
-
-### 📌 Pinned Projects
-
-Here are a couple of projects I'm proud of:
-
-* **[Coin/us-astro-chat](https://github.com/lungilemooketsi/Coin/us-astro-chat)**
-    * **What it is:** A real-time crypto sentiment analysis pipeline.
-    * This application aggregates data from multiple sources, performs sentiment analysis (NLP) to gauge market feeling, and generates actionable trading signals.
-    * Technologies: TypeScript
-
-* **[drawnix](https://github.com/lungilemooketsi/drawnix)**
-    * **What it is:** An all-in-one open-source whiteboard tool.
-    * Technologies: TypeScript
-
----
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lungilemooketsi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
