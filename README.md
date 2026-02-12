@@ -21,11 +21,9 @@
 
 ### ✨ About Me
 
-I'm a **BSc Data Science student** at **Eduvos** and the founder of **KynosTech**. I specialize in bridging the gap between Data Engineering and Decentralized Technologies.
+Iam a second-year Bachelor of Science student in Information Technology at Eduvos, specializing in Data Science. My academic journey is driven by a fascination with how algorithms can uncover hidden patterns in chaotic data.
 
-* 🏆 **Hackathon Winner:** Winner of the **Build on Base 2024** hackathon for creating a sentiment analysis bot.
-* 🛠️ **Current Focus:** Developing **HydroLedger** and AI assistants with local hand-tracking.
-* 🎓 **Leadership:** Technical Mentor for the **Eduvos Midrand Coding Club** and SRC Nominee.
+My goal is to transition into Machine Learning Engineering, building robust models that solve real-world problems. I combine rigorous statistical analysis with modern software engineering practices to create scalable, efficient AI solutions.
 
 ### 🛠️ Technical Arsenal
 
