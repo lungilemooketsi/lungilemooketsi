@@ -1,7 +1,7 @@
 # Hi there, I'm Lungile Mooketsi 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lungilemooketsi)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=aboutdotme&logoColor=white)](https://github.com/lungilemooketsi)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=aboutdotme&logoColor=white)](https://lungile.me)
 [![CKAD Certified](https://img.shields.io/badge/Certified-CKAD%20%7C%20KCNA-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.cncf.io/)
 
 Passionate **Data Science & Cloud Systems Builder** focused on architecting scalable backend systems, resilient cloud infrastructure, and data-driven solutions. Actively building in the open-source and Web3 ecosystems.
