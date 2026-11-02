@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lungilemooketsi)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=aboutdotme&logoColor=white)](https://lungile.me)
-[![CKAD Certified](https://img.shields.io/badge/Certified-CKAD%20%7C%20KCNA-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.cncf.io/)
 
 Passionate **Data Science & Cloud Systems Builder** focused on architecting scalable backend systems, resilient cloud infrastructure, and data-driven solutions. Actively building in the open-source and Web3 ecosystems.
 
@@ -23,7 +22,7 @@ Passionate **Data Science & Cloud Systems Builder** focused on architecting scal
 | :--- | :--- |
 | **Languages** | Python, SQL, JavaScript / TypeScript, Bash, Solidity |
 | **Data & AI** | Pandas, NumPy, Scikit-Learn, Power BI, Data Visualization, Jupyter |
-| **Cloud & DevOps** | Kubernetes (CKAD, KCNA), Docker, Git, CI/CD, Linux |
+| **Cloud & DevOps** | Kubernetes, Docker, Git, CI/CD, Linux |
 | **Databases** | PostgreSQL, MongoDB |
 | **Ecosystems & Web3** | Base Network, Smart Contracts, Open Source Development |
 
@@ -32,7 +31,6 @@ Passionate **Data Science & Cloud Systems Builder** focused on architecting scal
 ### 🏆 Key Milestones & Involvement
 
 - 🎓 **BSc in Information Technology (Data Science)**
-- 🏅 **Certified Kubernetes Application Developer (CKAD)** & **Cloud Native Associate (KCNA)**
 - 🌐 **Web3 Builder & Grantee:** Active builder in the Base ecosystem and contributor to decentralized applications.
 - 🤝 **Community & Open Source:** Regular participant in Zindi machine learning challenges, developer hackathons, and tech mentorship initiatives.
 
